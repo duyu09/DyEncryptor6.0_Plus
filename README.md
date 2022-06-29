@@ -1,4 +1,6 @@
-# Copyright Statement of DyEncryptor6.0_Plus Software v6.0
+# Copyright Statement of DyEncryptor Software v6.0 Plus
+
+## Copyright Statement
 
 Copyright (c) 2016-2022 Duyu.
 
@@ -11,6 +13,8 @@ Copyright (c) 2016-2022 Duyu.
  All Rights Reserved.
  
  Any organization or individual can use or distribute the software free of charge, but may not change part or all of the software without written authorization.
+ 
+ ## Completion date of each version:
 
  2016-04-05.  version:1.0.
  
