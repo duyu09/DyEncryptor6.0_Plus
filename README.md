@@ -39,4 +39,4 @@ Copyright (c) 2016-2022 Duyu.
  
  Due to the outdated development language, backward algorithm, and inability to better comply with current mainstream operating system versions, the DuyuEncryptor software can no longer meet the needs of current users. Due to this, DuyuEncryptor software copyright holders and developers have jointly decided to discontinue maintenance of the software as of July 03, 2022. It is expected that around October 2022 we will release a new encryption software system that is more efficient, more secure and fully compatible with Windows10~11 operating system.
  
- 由于本软件(DuyuEncryptor系列软件)开发语言的过时，算法的落后，以及软件无法更好地兼容当前主流操作系统版本等诸多原因，本软件已无法更好地满足当下用户的需求。鉴于此，DuyuEncryptor软件版权方以及开发人员共同决定，于2022年07月03日起，停止对其的维护。预计2022年10月左右我们将会发布更高效，更安全，全面兼容Windows10~11操作系统的新型加密软件系统。
+ 由于本软件(DuyuEncryptor系列软件)开发语言的过时，算法的落后，以及软件无法更好地兼容当前主流操作系统版本等诸多原因，本软件已无法更好地满足当下用户的需求。经过DuyuEncryptor软件著作权所有人以及全体开发人员的共同研究，我们决定，于2022年07月03日起，停止对DuyuEncryptor系列软件系统的维护。预计2022年10月左右我们将会发布更高效，更安全，全面兼容Windows10~11操作系统的新型加密软件系统。
